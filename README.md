@@ -1,1 +1,1 @@
-# alan-covid.github.io
+# covidAssignment
